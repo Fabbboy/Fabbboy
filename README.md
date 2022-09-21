@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I'm a student learning how to code. I taught myself programming for the most part. It started with C# and Unity. After that I learned Javascript. I then programmed Discordbots and websites with it. After Javascript came the switch to compiled languages. First Java or Kotlin and then I got involved with C++/C. Recently I also started to learn Golang.
+Hey I'm a student learning how to code. I taught myself programming for the most part. It started with C# and Unity. After that I learned Javascript. I then programmed Discordbots and websites with it. After Javascript came the switch to compiled languages. First Java or Kotlin and then I got involved with C++/C. Recently I also started to learn Golang. My favorite programming language is C++ i use it for almost every project.
 
 
 ## 🌐 Socials:
