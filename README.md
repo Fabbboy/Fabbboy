@@ -1,8 +1,8 @@
-<h2 align="center">Grüezi / Hello 👋</h2>
+## Grüezi / Hello 👋
 
 ###
 
-<p align="left">My name is Fabrice. I'm currently an apprentice in his 1st year. I started programming when I was 9 Years old since then I learned a lot. From Discordbots and webpages to operating system development. My favorite programming languages are C/CXX and Rust. <br><br>- 📂 On of my goal is to build a working compiler.</p>
+<h4 align="left">My name is Fabrice. I'm currently an apprentice in his 1st year. I started programming when I was 9 Years old since then I learned a lot. From Discordbots and webpages to operating system development. My favorite programming languages are C/CXX and Rust. <br><br>- 📂 On of my goal is to build a working compiler.</h4>
 
 ###
 
